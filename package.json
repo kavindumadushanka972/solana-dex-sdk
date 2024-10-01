@@ -10,9 +10,9 @@
     "./lib",
     "./src"
   ],
-  "repository": "https://github.com/raydium-io/raydium-sdk-V2",
+  "repository": "https://github.com/kavindumadushanka972/solana-dex-sdk",
   "publicConfig": {
-    "registry": "https://registry.yarnpkg.com",
+    "registry": "https://registry.npmjs.org",
     "access": "public"
   },
   "keywords": [
